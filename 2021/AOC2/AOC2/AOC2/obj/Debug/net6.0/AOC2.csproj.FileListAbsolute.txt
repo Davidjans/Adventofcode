@@ -1,0 +1,15 @@
+D:\HKU\AdventOfCode\AOC2\AOC2\AOC2\bin\Debug\net6.0\AOC2.exe
+D:\HKU\AdventOfCode\AOC2\AOC2\AOC2\bin\Debug\net6.0\AOC2.deps.json
+D:\HKU\AdventOfCode\AOC2\AOC2\AOC2\bin\Debug\net6.0\AOC2.runtimeconfig.json
+D:\HKU\AdventOfCode\AOC2\AOC2\AOC2\bin\Debug\net6.0\AOC2.dll
+D:\HKU\AdventOfCode\AOC2\AOC2\AOC2\bin\Debug\net6.0\ref\AOC2.dll
+D:\HKU\AdventOfCode\AOC2\AOC2\AOC2\bin\Debug\net6.0\AOC2.pdb
+D:\HKU\AdventOfCode\AOC2\AOC2\AOC2\obj\Debug\net6.0\AOC2.csproj.AssemblyReference.cache
+D:\HKU\AdventOfCode\AOC2\AOC2\AOC2\obj\Debug\net6.0\AOC2.GeneratedMSBuildEditorConfig.editorconfig
+D:\HKU\AdventOfCode\AOC2\AOC2\AOC2\obj\Debug\net6.0\AOC2.AssemblyInfoInputs.cache
+D:\HKU\AdventOfCode\AOC2\AOC2\AOC2\obj\Debug\net6.0\AOC2.AssemblyInfo.cs
+D:\HKU\AdventOfCode\AOC2\AOC2\AOC2\obj\Debug\net6.0\AOC2.csproj.CoreCompileInputs.cache
+D:\HKU\AdventOfCode\AOC2\AOC2\AOC2\obj\Debug\net6.0\AOC2.dll
+D:\HKU\AdventOfCode\AOC2\AOC2\AOC2\obj\Debug\net6.0\ref\AOC2.dll
+D:\HKU\AdventOfCode\AOC2\AOC2\AOC2\obj\Debug\net6.0\AOC2.pdb
+D:\HKU\AdventOfCode\AOC2\AOC2\AOC2\obj\Debug\net6.0\AOC2.genruntimeconfig.cache

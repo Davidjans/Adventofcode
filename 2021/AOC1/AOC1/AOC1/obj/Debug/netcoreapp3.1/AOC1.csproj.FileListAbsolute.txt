@@ -1,0 +1,14 @@
+D:\HKU\AdventOfCode\AOC1\AOC1\AOC1\bin\Debug\netcoreapp3.1\AOC1.exe
+D:\HKU\AdventOfCode\AOC1\AOC1\AOC1\bin\Debug\netcoreapp3.1\AOC1.deps.json
+D:\HKU\AdventOfCode\AOC1\AOC1\AOC1\bin\Debug\netcoreapp3.1\AOC1.runtimeconfig.json
+D:\HKU\AdventOfCode\AOC1\AOC1\AOC1\bin\Debug\netcoreapp3.1\AOC1.runtimeconfig.dev.json
+D:\HKU\AdventOfCode\AOC1\AOC1\AOC1\bin\Debug\netcoreapp3.1\AOC1.dll
+D:\HKU\AdventOfCode\AOC1\AOC1\AOC1\bin\Debug\netcoreapp3.1\AOC1.pdb
+D:\HKU\AdventOfCode\AOC1\AOC1\AOC1\obj\Debug\netcoreapp3.1\AOC1.AssemblyInfoInputs.cache
+D:\HKU\AdventOfCode\AOC1\AOC1\AOC1\obj\Debug\netcoreapp3.1\AOC1.AssemblyInfo.cs
+D:\HKU\AdventOfCode\AOC1\AOC1\AOC1\obj\Debug\netcoreapp3.1\AOC1.csproj.CoreCompileInputs.cache
+D:\HKU\AdventOfCode\AOC1\AOC1\AOC1\obj\Debug\netcoreapp3.1\AOC1.dll
+D:\HKU\AdventOfCode\AOC1\AOC1\AOC1\obj\Debug\netcoreapp3.1\AOC1.pdb
+D:\HKU\AdventOfCode\AOC1\AOC1\AOC1\obj\Debug\netcoreapp3.1\AOC1.genruntimeconfig.cache
+D:\HKU\AdventOfCode\AOC1\AOC1\AOC1\obj\Debug\netcoreapp3.1\AOC1.csproj.AssemblyReference.cache
+D:\HKU\AdventOfCode\AOC1\AOC1\AOC1\obj\Debug\netcoreapp3.1\AOC1.GeneratedMSBuildEditorConfig.editorconfig
